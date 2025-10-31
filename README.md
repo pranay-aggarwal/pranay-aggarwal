@@ -12,7 +12,6 @@
 - 🎓 I'm a **Computer Science student** (currently pursuing a **BS in Data Science from IIT Madras**) passionate about software development, AI, and data-driven solutions.
 - 🚀 I love building projects that combine logic, creativity, and automation—from full-stack web apps to AI-powered voice agents.
 - 💡 Actively building projects in **Full-Stack Development** (React, Node, GSAP) and **AI/ML** (voice platforms, data analysis models).
-- 🌱 Always open to **collaborations** and learning new technologies.
 - 🧠 My interests include: **AI systems**, **full-stack development**, **advanced web animations** (like GSAP & Locomotive Scroll), and **database design**.
 
 ---
@@ -22,13 +21,6 @@
 - **Head of Technology and Operations** | **Linkedout** (Sept 2025)
   - Led technology strategy and operational management.
 
----
-
-### 🚀 My Projects
-
-- **Park Easy (Full-Stack Web App)**
-  - A comprehensive final project for the IIT Madras BS Degree program.
-  - *Tech Stack:* Included modern application development tools to create a full-stack solution.
 ---
 
 ### 🤝 Connect With Me

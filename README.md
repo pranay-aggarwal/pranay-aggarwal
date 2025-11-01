@@ -7,19 +7,15 @@
 
 ---
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranay-aggarwal" alt="pranay-aggarwal" /></a> </p>
+
+
 ### 🌟 About Me
 
 - 🎓 I'm a **Computer Science student** (currently pursuing a **BS in Data Science from IIT Madras**) passionate about software development, AI, and data-driven solutions.
-- 🚀 I love building projects that combine logic, creativity, and automation—from full-stack web apps to AI-powered voice agents.
+- 🚀 I love building projects that combine logic, creativity, and automation, from full-stack web apps to AI-powered voice agents.
 - 💡 Actively building projects in **Full-Stack Development** (React, Node, GSAP) and **AI/ML** (voice platforms, data analysis models).
-- 🧠 My interests include: **AI systems**, **full-stack development**, **advanced web animations** (like GSAP & Locomotive Scroll), and **database design**.
-
----
-
-### 💼 Professional Experience
-
-- **Head of Technology and Operations** | **Linkedout** (Sept 2025)
-  - Led technology strategy and operational management.
+- 🧠 My interests include: **AI systems**, **full-stack development**, **advanced web animations** , and **database design**.
 
 ---
 
